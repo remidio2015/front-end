@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<h1>Minhas Experiencias</h1>
+<br>
+<ul>
+    <li><h3>Empresa: Huawei </h3></li>
+    <li><h3>Cargo: Técnico Telecomunicação</h3></li>
+
+    <ul>
+        <li>trabalho em projetos</li>
+        <li>operacão de máquinas</li>
+        <li>configuração de equipamento </li>
+        </ul>
+    <br>
+
+    
+    <dd>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque voluptatibus, vel, officia deserunt necessitatibus corrupti optio quaerat omnis quod unde, quos accusantium! Recusandae voluptatem quia, numquam consequatur error aut. Quas!</dd>
+</ul>
+
+
+
+
+</body>
+</html>
